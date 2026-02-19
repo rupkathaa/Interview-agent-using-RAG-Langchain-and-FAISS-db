@@ -17,10 +17,16 @@ vectorstore/: Directory where the FAISS index is stored after processing.
 Tech Stack:
 
 Orchestration: LangChain
+
 Vector Database: FAISS
+
 LLM: Mistral (via Ollama)
+
 Embeddings: nomic-embed-text (via Ollama)
+
 Document Loading: PyPDF
+
+
 
 
 How it Works:
